@@ -2,8 +2,6 @@
 
 # Hi there, I'm Rishoni De Silva <img src="assets/wave.gif" width="45" alt="waving hand"/>
 
-### Full-stack engineer building and scaling enterprise-grade products — from performance optimization to reliable, on-time delivery.
-
 <img src="assets/coding.gif" width="480" alt="coding gif"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-stack+Engineer;Scaling+systems+for+enterprise;Performance+optimization+%E2%9A%A1;Delivering+projects+end-to-end)](https://github.com/RishoniDeSilva)
