@@ -2,11 +2,11 @@
 
 # Hi there, I'm Rishoni De Silva <img src="assets/wave.gif" width="45" alt="waving hand"/>
 
-### React on the surface, Node underneath, opinions all the way through.
+### Full-stack engineer building and scaling enterprise-grade products — from performance optimization to reliable, on-time delivery.
 
 <img src="assets/coding.gif" width="480" alt="coding gif"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-stack+Engineer;TypeScript+enjoyer+%E2%98%95;Shipping+with+React+%26+Node;Always+debugging+something...)](https://github.com/RishoniDeSilva)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-stack+Engineer;Scaling+systems+for+enterprise;Performance+optimization+%E2%9A%A1;Delivering+projects+end-to-end)](https://github.com/RishoniDeSilva)
 
 </div>
 
@@ -21,8 +21,8 @@ const rishoni = {
   frontend: ["React", "Next.js", "HTML5", "CSS"],
   backend: ["Node.js", "Laravel"],
   cloudAndOps: ["Docker", "Kubernetes", "GCP", "CircleCI"],
-  currentlyDebugging: "life, one commit at a time 🐛",
-  funFact: "My code works on my machine — and I have witnesses.",
+  focus: ["Scalability", "Performance optimization", "Enterprise delivery"],
+  motto: "Build it right, then scale it further. 🚀",
 };
 ```
 
@@ -30,11 +30,12 @@ const rishoni = {
 
 ## 🚀 What I do
 
-- 🎨 **Frontend** — building slick, snappy UIs with **React** & **Next.js**
-- ⚙️ **Backend** — designing APIs and services with **Node.js** & **Laravel**
-- ☁️ **Cloud & CI/CD** — shipping with **Docker**, **Kubernetes**, **GCP** & **CircleCI**
-- 🧪 **Quality** — test automation so the bugs fear *me*, not the other way around
-- 💡 Strong opinions, loosely held — but the linter config is non-negotiable
+- 🏗️ **Scalable systems** — contributing to and scaling up enterprise-grade projects
+- ⚡ **Performance optimization** — profiling, tuning, and squeezing latency out of frontend & backend alike
+- 🎨 **Frontend** — building fast, accessible UIs with **React** & **Next.js**
+- ⚙️ **Backend** — designing robust APIs and services with **Node.js** & **Laravel**
+- ☁️ **Cloud & CI/CD** — shipping reliably with **Docker**, **Kubernetes**, **GCP** & **CircleCI**
+- 🧪 **Quality & delivery** — test automation and disciplined releases, delivering projects end-to-end
 
 <br clear="right"/>
 
